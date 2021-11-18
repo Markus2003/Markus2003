@@ -34,4 +34,5 @@ Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
 ![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight)<br>
 
 
-###### Nota: Le statistiche di Wakatime si limitano alle ultime 2 settimane
+###### Nota: Le statistiche di Wakatime si limitano alle ultime 2 settimane<br><br>
+###### Tra un po' arriverà anche l'Inglese :wink:
