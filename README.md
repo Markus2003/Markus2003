@@ -16,6 +16,17 @@ Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
 - Visual Studio Code (il mio preferito :heart: ed il più versatile)
 - Android Studio (per lo sviluppo Android)
 
+## Progetto più attivo
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Markus2003&repo=Assistente-Vocale)
+
+<br>
+
+# Un po' di Statistiche...
+
+## Statistiche GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Markus2003&show_icons=true)
+
+
 ## Linguaggi più usati
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact)<br>
 
