@@ -30,7 +30,7 @@ Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
 ## Linguaggi più usati
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact&theme=tokyonight)<br>
 
-## Wakatime Stats
+## Statistiche Wakatime
 ![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight)<br>
 
 
