@@ -23,12 +23,12 @@ Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
 
 # Un po' di Statistiche...
 
-[![Statistiche GitHub Marco](https://github-readme-stats.vercel.app/api?username=Markus2003&show_icons=true&theme=tokyonight&custom_title=Statistiche%20GitHub%20di%20Marco)]()<br>
+[![Statistiche GitHub Marco](https://github-readme-stats.vercel.app/api?username=Markus2003&show_icons=true&theme=tokyonight&custom_title=Statistiche%20GitHub%20di%20Marco)](https://github.com/Markus2003)<br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact&theme=tokyonight&custom_title=Linguaggi%20più%20usati)]()<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact&theme=tokyonight&custom_title=Linguaggi%20più%20usati)](https://github.com/Markus2003)<br>
 
-[![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight&custom_title=Statistiche%20Wakatime)]()<br>
+[![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight&custom_title=Statistiche%20Wakatime)](https://github.com/Markus2003)<br>
 
 
 ###### Nota: Le statistiche di Wakatime si limitano alle ultime 2 settimane<br><br>
