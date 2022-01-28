@@ -1,10 +1,10 @@
 # Marco Ricci
-Ciao, sono Marco!<br>
-Sono un appassionato di Computer con una insaziabile voglia di imparare nuovi linguaggi di programmazione!<br>
-Ho dimestichezza con ```Windows```, ```Linux``` e ```Android```.<br>
-Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
+Hi There, I'm Marco!<br>
+I'm a computer enthusiast with an insatiable desire to learn new programming languages!<br>
+I'm familiar with `Linux`, `Windows` and `Android`.<br>
+Also, as a programmer, I'm a `Pro-Googler`!
 
-## Che Linguaggi di Programmazione conosco
+## What Programming Languages I know
 - C/C++
 - Java
 - JavaScript
@@ -12,23 +12,20 @@ Inoltre, in quanto programmatore, sono anche un ```Pro-Googler```!
 - PHP
 - Python
 
-## Che IDE mi piace usare
-- Visual Studio Code (il mio preferito :heart: ed il più versatile)
-- Android Studio (per lo sviluppo Android)
+## What IDEs I like to use
+- Visual Studio Code (my favourite :hearth: and the most versatile)
+- Android Studio (for Android development)
 
-## Progetto più attivo
-[![Progetto più Attivo](https://github-readme-stats.vercel.app/api/pin/?username=Markus2003&repo=Assistente-Vocale&theme=tokyonight)](https://github.com/Markus2003/Assistente-Vocale)
+## More active project
+[![More active project](https://github-readme-stats.vercel.app/api/pin/?username=Markus2003&repo=Assistente-Vocale&theme=tokyonight)](https://github.com/Markus2003/Assistente-Vocale)
 
 <br>
 
-# Un po' di Statistiche...
+# A little bit of Statistics
 
-[![Statistiche GitHub Marco](https://github-readme-stats.vercel.app/api?username=Markus2003&show_icons=true&theme=tokyonight&custom_title=Statistiche%20GitHub%20di%20Marco)](https://github.com/Markus2003)<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact&theme=tokyonight&custom_title=Linguaggi%20più%20usati)](https://github.com/Markus2003)<br>
-
-[![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight&custom_title=Statistiche%20Wakatime)](https://github.com/Markus2003)<br>
+[![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Markus2003&show_icons=true&theme=tokyonight&custom_title=Marco's%20GitHub%20Stats)](https://github.com/Markus2003)<br>
 
 
-###### Tra un po' arriverà anche l'Inglese :wink:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markus2003&layout=compact&theme=tokyonight&custom_title=Most%20used%20Languages)](https://github.com/Markus2003)<br>
+
+[![Marco Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Markus2003&hide=text,Markdown&layout=compact&theme=tokyonight&custom_title=Wakatime%20Stats)](https://github.com/Markus2003)
