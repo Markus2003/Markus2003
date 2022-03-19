@@ -17,7 +17,7 @@ Also, as a programmer, I'm a `Pro-Googler`!
 - Android Studio (for Android development)
 
 ## More active project
-[![More active project](https://github-readme-stats.vercel.app/api/pin/?username=Markus2003&repo=Assistente-Vocale&theme=tokyonight)](https://github.com/Markus2003/Assistente-Vocale)
+[![More active project](https://github-readme-stats.vercel.app/api/pin/?username=Markus2003&repo=openServer&theme=tokyonight)](https://github.com/Markus2003/Assistente-Vocale)
 
 <br>
 
