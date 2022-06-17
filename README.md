@@ -13,7 +13,7 @@ Also, as a programmer, I'm a `Pro-Googler`!
 - Python
 
 ## What IDEs I like to use
-- Visual Studio Code (my favourite :hearth: and the most versatile)
+- Visual Studio Code (my favourite :heart: and the most versatile)
 - Android Studio (for Android development)
 
 ## More active project
