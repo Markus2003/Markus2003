@@ -5,12 +5,15 @@ I'm familiar with `Linux`, `Windows` and `Android`.<br>
 Also, as a programmer, I'm a `Pro-Googler`!
 
 ## What Programming Languages I know
+- Bash
 - C/C++
 - Java
-- JavaScript
+- JavaScript and jQuery
 - Kotlin
 - PHP
 - Python
+- Shell Script
+- SQL
 
 ## What IDEs I like to use
 - Visual Studio Code (my favourite :heart: and the most versatile)
